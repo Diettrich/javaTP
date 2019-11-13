@@ -3,7 +3,7 @@ tout les tp de java 2ème année MSIP
 
 voici les notes de cours:
 	
-	dans la classe la classe geste point dois créer les points automatiquement en fonction des arguments qui lui sont passés par la ligne de commande le nombre d argument dois être pairs
+dans la classe la classe geste point dois créer les points automatiquement en fonction des arguments qui lui sont passés par la ligne de commande le nombre d argument dois être pairs
 
 dans un premier cas les argument sont d’ordre 2
 definir la méthode toStirng 
